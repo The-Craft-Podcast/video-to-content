@@ -1,7 +1,7 @@
 # Notes for the transcript processor
 - Remove the filler words like "um", "uh", etc.
-- Replace with coherent sentences where possible.
-- "Track 1" is the interviewer, Michail Katkoff
+- Clean up the sentences, but do not change what they've said. We need this to match the audio perfectly.
+- "Track 1" is the interviewer, Michail Katkoff. Just refer to him as Michail.
 - Maxim's company is called Playrix -- it's frequently misunderstood in the transcript as "Play Works", "Play ricks" etc. Please fix these mentions.
 - Use the timestamps embedded in the transcript to estimate the time slice of chapter cuts. The timestamps are in the format [hh:mm:ss].
 

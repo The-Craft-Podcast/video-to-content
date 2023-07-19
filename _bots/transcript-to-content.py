@@ -59,7 +59,7 @@ def process_transcript(raw_transcript, format_notes, suggestions=None):
                             },
                             "text": {
                                 "type": "string",
-                                "description": "What the speaker said. Try to remove filler words like 'uh' and 'um'. Reform the text into coherent sentences, but don't deviate from the speaker's original phrasing. Delete repeated words and stammering. NEVER enclose in quotes. Format example: 'Hello, world!'",
+                                "description": "What the speaker said. Try to remove filler words like 'uh' and 'um'. Delete repeated words and stammering. This is a transcript, not a summary--so do not deviate from the original phrasings. NEVER enclose in quotes. Format example: 'Hello, world!'",
                             },
                         },
                     },
@@ -270,10 +270,10 @@ def main():
             desired_output_notes = desired_output_notes.read()
 
         # Process the transcript
-        transcriptObj = process_transcript(raw_transcript, desired_output_notes, suggestions)
+        # transcriptObj = process_transcript(raw_transcript, desired_output_notes, suggestions)
 
         # Call the function
-        # result = process_notes(raw_notes, desired_output_format, parameter_list, suggestions)
+        contentObj = process_notes(raw_transcript, parameter_list, suggestions)
 
         # Example results, for testing.
         # result = {'episode-file-name': '2023-02-07-episode-62', 'title': "'Soulbind'", 'description': "'In episode 62, we delve into the world of soulbound tokens. We discuss the proposed EIP-6049 and the mechanisms of Ethereum consensus changes. We also cover various concepts around these tokens such as EOA evaluation, attributes, personhood, and business models. Lastly, we explore the potential of soulbound tokens in ticketing.'", 'youtube-full': 'https://youtu.be/rlePJziAY6Y', 'discussion': 'https://twitter.com/fulldecent/status/1623232559147515904', 'timeline': [{'seconds': 0, 'title': 'Intro'}, {'seconds': 43, 'title': 'EIP-6049'}, {'seconds': 169, 'title': 'How do Eth consensus changes happen?'}, {'seconds': 518, 'title': 'Intro to Soulbind'}, {'seconds': 603, 'title': 'Existing standard for soulbound NFTs'}, {'seconds': 638, 'title': 'Can we standardize EOA evaluation?'}, {'seconds': 871, 'title': 'Attributes and personhood'}, {'seconds': 932, 'title': 'Business model and product interview'}, {'seconds': 1238, 'title': 'Mintable tokens and spam'}, {'seconds': 1304, 'title': 'Content moderation: keys = calls'}, {'seconds': 1350, 'title': 'Is burnable really soulbound?'}, {'seconds': 1383, 'title': 'Can SBT be mutable?'}, {'seconds': 1512, 'title': 'I Leveling up token'}, {'seconds': 1604, 'title': 'Ticketing'}], 'badges': [{'type': 'stayed-to-end', 'recipient': 'Rito_Rhymes'}, {'type': 'stayed-to-end', 'recipient': '037'}, {'type': 'stayed-to-end', 'recipient': 'exstalis'}, {'type': 'stayed-to-end', 'recipient': '0xrobrecht'}, {'type': 'stayed-to-end', 'recipient': 'cer_andrew'}, {'type': 'stayed-to-end', 'recipient': 'EllieVoxel'}, {'type': 'stayed-to-end', 'recipient': 'dtedesco1'}]}
@@ -281,12 +281,17 @@ def main():
         front_matter_new = yaml.dump(transcriptObj, sort_keys=False)
         print(f'\n\nYour transcript was processed.')
 
-        output_file_path = f'_drafts/transcript.md'
+        transcript_file_path = f'transcript.md'
 
-        with open(output_file_path, "w") as output_file:
+        with open(transcript_file_path, "w") as output_file:
             output_file.write(f'{front_matter_new}')
             output_file.close()
-            print(f'\n\nYour notes were saved to {output_file_path}')
+            print(f'\n\nYour transcript was saved.')
+        
+        with open('content.md', "w") as output_file:
+            output_file.write(f'{contentObj}')
+            output_file.close()
+            print(f'\n\nYour content was saved.')
 
         # Ask the user for any suggestions
         new_suggestions = input(f"\nUpate and save the notes files and enter any suggestions (or hit return once you're happy with the results): ")
