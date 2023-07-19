@@ -1,0 +1,136 @@
+Playrix
+Track 1: [00:00:00] Welcome, welcome, welcome everybody to the Deconstructor of Fun podcast. This is a, I would say, a continuum to the, uh, the conversations that has been happening after I reached the, uh, the couple of, uh, um, opinionated and research statements, uh, on, on the, uh, on the blog, why remote workers are increasingly less productive, anxious, depressed, and lonely. And all this started from. The crazy strong statements against remote work
+and how it's, and in 2023, so for the past years, leading tech companies have stopped asking and begun mandating their employees to return to on site. And for me, what's craziest has been that though these are the same companies resisting fully remote work, are also the ones that create the actual tools for others to work remotely. . Over the years I've experienced running a game studio or game studios on a fully onsite remote and hybrid setups, and I've benefited both from the ability to hire experts remotely.
+And I've also endured a lot of the pitfalls and the misalignments and the mental health issues caused by communication challenges with remote, with [00:01:00] remote employees. So a lot of challenges, but I wanted to get somebody. From a company that does remote work arguably best than anybody else, and that is of course, Playworks. So without further ado, uh, Maxim Lenko Chief Business Development Officer from Playworks. Welcome to the podcast.
+Maxim Kirilenko: Hi, Mihael. How are you? 
+Track 1: I. 
+Maxim Kirilenko: to be here.
+Track 1: This is your second time on the podcast. I kind of wanted to, you asked me to, uh, to do like, uh, do a proper intro, talk about the tech companies and everything, kind of like the magnitude of
+issues. so, so, so, um, how are you doing and where are you from? Like where are you, where are you logging in?
+Maxim Kirilenko: Um, I'm logging in from, from London, so I moved to London, uh, last, last year in September from Ireland where I were, uh, for like past, uh, four years, whereas headquarter of clerics.
+Track 1: Nice
+and and talking about play wrecks, like, you know, people know the gardenscapes and, fishdom[00:02:00] 
+Fishdom. 
+Maxim Kirilenko: now I have Fido Salter as well.
+Track 1: Phish, like you have a lot of games. People know of the games, but sometimes they forget how big and successful company Playworks is. It is huge. You have over three and a
+half thousand employees. 
+Maxim Kirilenko: You have almost 10 game studios, and just in terms of revenue, looking at data AI numbers, it's a third biggest publisher on mobile, and the only ones ahead of play Ricks are Tencent
+Tencent 
+Blizzard King.
+and Visual Blizz King, which is now probably a Microsoft.
+Yeah. Yeah. So and so Tencent and Microsoft are the only ones ahead of you. So there's still a little bit of, a little bit of a way to climb up, but, uh, but it's a, it's, it's a, you know, huge company and hugely successful, and I think it's important to understand that as a context as we're continuing this conversation. 
+Track 1: And I wanted to kick off by, by asking what is your typical day as a remote employee at Playworks?
+Maxim Kirilenko: Yeah, that's a great question. So, uh, as [00:03:00] for me, my like, uh, typical day, uh, from like business development side, started from 6:00 AM in the morning, uh, because I'm covering China. Uh, and, uh, ended at sometimes 11:00 PM uh, because, uh, we are partners with lot of companies from the United States, especially, uh, marketing companies, uh, from the United States.
+And because of that, like my day is unpredictable, and crazy in terms of schedule, especially call schedules and, uh, business meeting schedule.
+Track 1: Yeah. Yeah. I, I, I have to say that before we were recording this podcast, you were coming in, you were like, Hey, can we, can we move? I think we're getting a second child at this moment. And you're like, Nope. False alarm. Let's actually
+Maxim Kirilenko: Yeah. no no post.
+Wow. It's, uh,
+Yeah, we're waiting like second, second child. And uh, I texted you like contraction started. , let's reschedule to later on.
+Yeah. 
+Track 1: Well, congratulations. Two Girls Club.
+Maxim Kirilenko: Yeah. Thanks 
+Track 1: gonna be [00:04:00] a member soon, But, but, but you actually make a, make a good point in that like you're describing your day and as an executive in this company, um, as a remote employee, are you at a risk of burning out? That sounds like a crazy day.
+Maxim Kirilenko: Yeah, I think so. I, I do have risk, uh, to get a burnout, uh, easily. And sometimes, uh, I can feel that, uh, I'm pretty close to burnout. Because that, of course, um, I'm doing a lot of things to prevent this burnout, trying to like schedule my day better, trying to keep time for my family, uh, in between work. Uh, and in my case, uh, I think that it's connected to how organized I am, uh, and how motivated I am to continue delivering success and results for our company.
+And of course, here, uh, my family helps, uh, a lot. Um, so I'm spending time with my daughter and my wife, uh, and I'm trying to, uh, [00:05:00] to spend time every day like no matter what. And I have like, breaks in between,
+But 
+at the same 
+you make 
+like burnout, uh, easy to get, especially when there are a lot of like things happening, especially like last year because of all transitions that we passed through as a company. Because of all the locations, o office, uh, closer closures and, uh, like exit from Russia, uh, there were a lot of tasks which are connected to business development and not connected to business development.
+But, uh, we were in charge of, uh, all these tasks and, uh, it was hard to navigate that period of time. Um, and again, like family and, uh, very good schedule of my day. Help me to overcome.
+Track 1: And, and so, and how do you make sure that your team doesn't work burnout? Because if you're working so hard, then they need to be working 10% harder.
+Maxim Kirilenko: Yeah, 10% higher, probably like , the [00:06:00] 20 20% harder
+Track 1: yeah.
+Maxim Kirilenko: some point. Uh, and this is, I think that this is a challenge for managers, especially in companies who embrace remote work. And give opportunity to their employees to work, uh, in a remote way. So, uh, I'm constantly thinking about how to prevent burnout of my team, trying to, uh, prioritize more, uh, what tasks are important, what are less important than the, we can, uh, put them in the backlog.
+And, um, like, Achieve these goals or like, uh, make these tasks later on. Uh, also like constantly speaking to my team, which is also important to understand, uh, their like motivation to understand, uh, how like their personal needs and, uh, What they need at the moment. Um, like all of us, like my team, uh, and actually it's like not a big team for, uh, for play.[00:07:00] 
+Uh, in business development. We have, uh, five people at the moment, including me, which are covering all areas, uh, all business areas and, uh, Of course all of us, like we work remote from different countries. I'm from the uk. Uh, one girl from my team, she's in, uh, Ireland, uh, Spain, Serbia, Cyprus. Yeah. Pretty distributed team.
+Track 1: Yeah. 
+Maxim Kirilenko: Yeah. Uh, yeah. And all of us, uh, we have like our, like personal needs, our personal problems. I'm trying to, uh, to discuss like all of these, uh, like in the beginning of our calls, what like problems they have, how, uh, can I help from a personal standpoint and company standpoint. Uh, because if from company standpoint, we can make their life easier and solve some of them, uh, their problems.
+Uh, it, uh, could help them to, uh, focus more on what they're doing, [00:08:00] uh, and also a achieve results in a shorter period of time. And it also like prevents, like burnout and uh, this kind of stuff.
+So by their problems, you're probably talking about things like, first of all, communication from your, from your side as a manager, giving them context and and prioritization
+Communication as well. Yeah. And also person personal problems like day to day, their day-to-day life. I don't know, uh, sick kids or, uh, they got sick, uh, like at, at, at some point. Or they have like, they're experiencing some kind of like problems with like paperwork, uh, because we're living in different countries, like taxation, like various things.
+Track 1: exactly. Like, like those are typically the, uh, the challenges with the remote work setup is, is the three, like the burnout that we talked
+the first about the, uh, the communication,
+uh, naturally. Like, like do you meet up with, with your team often?
+Maxim Kirilenko: Uh, now more often compared to Covid time [00:09:00] because like of course during Covid time, it was impossible to meet.
+Track 1: Yeah.
+Maxim Kirilenko: Um, now because, uh, we're attending a lot of different conferences, a lot of different quarterly business reviews, yearly business reviews with our partners, uh, of course we meet more often. And, uh, we are, uh, planning some events like G D C or M A U, uh, to attend together.
+or,
+or the, uh, deconstructor fund, Abu Dhabi event later in
+Abu Dhabi Oh, later this November . So I guess that this is in, in invitation to Abu Dhabi 
+event. yes. 
+Okay. Yeah. Thank you. And we will be there.
+Track 1: And then, and of course the other tax and legal elements, like, like setting up so many entities. Playwrights is so big, so you probably have entities in, in a lot of different countries. So, so taxation and legal problems are,
+Maxim Kirilenko: and legal problems. Yeah. Which is like mo uh, these are most common problems, uh, of our employees. And also like relocations. Relocations is a big part, of course, when like people relocated from their, uh, [00:10:00] like Maori country,
+Track 1: Mm-hmm.
+Maxim Kirilenko: they are disconnected with their friends. They're disconnected with their families.
+They're in a completely new world. And, uh, from company standpoint, we need to be sure that we are providing, uh, best support to settle, uh, in these countries, uh, and cover all, all their needs from information standpoint to, um, I don't know, like human things. Where to go. Yeah, where to go, what to do 
+Yeah. 
+school, those are, of course, as a parent, those are the first things that you think about is like, you know, can my, can my child find a, a fun, a place in school? And, and how do they learn new language, like if they're in Serbia or, or Spain and, and so
+Yeah, that's true. That's true. That's true.
+Yeah. Uh, okay.
+Track 1: So your team, I mean, you're in business development and most of your work has to be asynchronous, right? So
+Maxim Kirilenko: Yeah, that's true. I synchronized, uh, sometimes we, uh, of course like we have some projects, uh, [00:11:00] that, uh, I cannot say. Let's repeat, uh,
+yeah.
+uh, could you please ask me a question 
+once and then Yeah.
+,let's go. Uh, and most of it, most of your work is asynchronous, right?
+Mm-hmm. , uh, yeah. Correct. Most our work is, uh, synchronized, but some, uh, work and some like special projects, uh, need, uh, like specific
+Track 1: Yeah. Where you get together and you can go through
+them. What, what I'm kind of going through is like how many people in play Rx and three and a half thousand people working at Play R, how many people work on site? How many people work remotely, and how many people work hybrid? Or like, is it remote and hybrid, are the options?
+Maxim Kirilenko: Ah, it's a remote hybrid at the moment. Uh, 50%. They work remote in a remote way, uh, 50% in hybrid mode.
+Track 1: so
+Maxim Kirilenko: Uh, so 
+it's, it's. 
+Track 1: people remotely.
+Maxim Kirilenko: Yeah. Yeah. So it's up to our employees [00:12:00] how to, uh, schedule their day, uh, and what's scheduled to like, choose. We don't have like any rules in our company, and, uh, this is the only policy that, okay, you can, uh, decide where to work, when to work.
+Uh, the only, uh, thing which is like matters is to deliver, uh, performance deliver results.
+Track 1: And, and so this is, this is like sounds to many who are listening. It's like, yep, exactly. That, that sounds perfect. Um, how did you, first of all, like how, when did you arrive to this model that you allow, like you allow, you know, almost 2000 people to work remotely and the only thing you ask for them is like, deliver on time. We don't care from where and you, we don't care when, like in, in terms of time of day.
+Maxim Kirilenko: Yeah. So play started, uh, this approach, I think 10 years ago, more than 10 years ago. Uh, and we were, I think one of the first companies, uh, who before Covid used this approach, uh, at the scale because before covid, 50% of our employees, they, uh, were [00:13:00] remote. 50% were working from, from the office. And then of course, like Covid came, 100% of our company started to work in a remote way.
+Then after Covid, a lot of, uh, our employees, uh, they, um, identified that actually hybrid, uh, mode to work is not, uh, is, is like very convenient, uh, for them. So they can plan their time, they can plan their visits, uh, to the office. They can, uh, on the one hand, uh, communicate with their colleagues in the office.
+In like informal way. And at the same time, they can be more focused at home and combine their like home needs and like home, uh, chores and uh, uh, and work. Uh, at the same time. And after Covid, uh, we, uh, we started to feel that more and more people, they would like to work in a hybrid mode. And for us, because before, uh, It was hybrid and remote at the same time.
+We decided that, okay, uh, we will like open this, [00:14:00] uh, policy, uh, and uh, we'll give an opportunity for our employees to decide what they want to do and when they want to do, and from like what country they want to do as well, which is important.
+And, and so, okay. Um, so several questions. Uh, is it like a company wide rule or is it more like a studio wide rule, or is it like
+a team wide rule? Like
+do, are you hybrid or 
+it's company, it's it's company-wide. So no matter what, like, title do you have in our company, uh, from c CSU to, uh, dairy Junior 
+employees? Uh, we use the same approach, same rule. It's up to our employee, uh, where our employee will work and, uh, what approach, uh, he or she is going to use.
+Track 1: Uh, have you had any of these challenges that, that companies like, uh, I think we were talking just before the recording, you said that Sega is move, is trying, is trying to move to a hundred percent onsite five [00:15:00] days a week. Like counter to what, what, for example, Playworks is doing so. Have you, have you seen the challenges in communication, lack of creativity, lack of loyalty, you know, tax and legal issues, burnout, getting slower, more disorganized and overall challenges in building and maintaining and engaging and outstanding company culture.
+With people in remote setup like you, you surely have seen these same challenges, like how, how have you gotten over them?
+Maxim Kirilenko: Yeah, that's a great question. And, uh, we're constantly thinking about do we have like any problems with, uh, remote
+Track 1: I like how like other others are like solving against it and you're like, are we okay? It's like we're third in the world.
+Maxim Kirilenko: Because it's like, it's definitely always like a question , uh, of course. Uh, but at the same time, I think that because PLE started to use this, uh, approach long, long time ago, we're, we're already, uh, set a number of like tools and, [00:16:00] uh, like services, how to, uh, how to solve this, uh, issuing how to, How to control overall work process and how to control, uh, structure.
+And here actually there are tools and uh, um, and services are like less important. Actually. The most important thing here is culture, uh, culture and, uh, way of work. How you're like working as a company and as a team together. And because cleric started, uh, to use remote, uh, approach there a long time ago.
+Of course, our like recruitment team and our like onboarding team and all other teams, they are focused how to onboard, uh, like how to hire and onboard, uh, employees in a way where, uh, remote work and hybrid more, uh, work will be, uh, uh, good. For like everyone [00:17:00] and, uh, will be accepted by employee because the most important thing at the end of the day here is how organized, like, self-motivated your employee is, whom you are, like just hired.
+And, uh, how this employee will be connected to the culture of the company. In company when everyone is like motivated, uh, to deliver success in a hybrid or remote work. Uh, it's easy to get this vibe and easy to adjust your schedule and adjust your, like needs based on, uh, like culture of, uh, company. And this is the most important part.
+Track 1: Okay. And, and, and the, uh, so, so originally, why did you move to, uh, to remote setup? Because you said you, you've been doing this for over 10 years.
+Maxim Kirilenko: Yeah, over 10 years, um, based on like our company history and, uh, what, what, what I know [00:18:00] about this. So our founders, they decided to use this approach, uh, because that time, uh, play's, uh, office, uh, was in Vlada.
+Track 1: I've been there,
+not, not worth a, not worth a second visit
+Maxim Kirilenko: And, uh, there were like a lot of people, uh, in Russia and also like Ukraine and CS countries who were like talented to like work in, in our company, but at the same time, to offer people to ate and work from the office, it was like impossible task. Uh, because of like various reasons and, uh, uh, our founders, they started to test, uh, like outsourcing, um, like run, um, hire people, yeah, hire contractors and try to work with them.
+And, uh, found out that, okay, this approach is, uh, working and if you [00:19:00] can, uh, find like proper person who can deliver results. And we, uh, will be like motivated, uh, to work as like con uh, contractor and, uh, in a remote way you can easily, uh, um, like achieve success. And at the same time, you can cut costs, uh, like office costs and uh, like relocation costs and all these, uh, costs that are connected to relocation of, uh, recruitment and relocation of like any employee 
+and making this employee to work from the office.
+Track 1: So, so it, it was basically, uh, an answer to, um, to a talent problem.
+Maxim Kirilenko: Yeah, to talent problem, to talent problem. How to attract talents, uh, from different regions, from different countries. And um,
+Track 1: To a,
+to a very unappealing city.
+Uh, and they were Um, so, and I'm not like, it could be appealing. I don't know. I was there only once and it was winter and it was [00:20:00] absolutely
+Maxim Kirilenko: Now winter 
+is nice. 
+Track 1: Involta.
+Maxim Kirilenko: Not like that.
+Track 1: No. Uh, but, um, um, and okay, so, so interesting question regarding you. You mentioned cultures and the ways of working. Um, Where do, where do employees of play Ricks come from? What I'm trying to ask is like, is like, are they from the same c i s region, most of the people, so that there's a little bit of a similar culture and a similar language set for most of the people. Uh, I'm just trying to understand like how homogeneous versus diverse the, uh, the three and a half thousand people are.
+Maxim Kirilenko: Yeah, that's a great question. Uh, most of our employees from cis are countries or like Eastern European countries, uh, at the moment. Yeah, because for example, now we're scaling our, uh, development headcount in, uh, Serbia. Now it's probably, uh, second or like third biggest, uh, office, uh, for us, and not office.
+Office is not the proper work here, but, uh, [00:21:00] country where our employees there, they're located. Um, but most of them, yes, they're like from CAS countries.
+Track 1: Do you, do you think that plays a, a role in finding a common ground? Because, uh, you know, we've, we've had podcasts about diversity and cultures and everything, and what I've been trying to say is like, diversity, like in my opinion, is not only how people look like or what their. Gender is, or so forth. It's, a lot of it is diversity of mind.
+Maxim Kirilenko: And diversity of mind comes from your upbringing, your, your values, your, your, schools. Like, like a lot of those elements play. And, and to me it sounds like a lot of, a lot of your people are culturally very similar
+and through 
+Very similar. Yes. 
+It might be, easier to kind of like build 
+it might, yeah, it might be easier to build a culture. But at the same time, for example, if we're talking about our, uh, localization team or we're talking about our customer support team, [00:22:00] uh, all these people are from different countries and different cultures, and, uh, they use pretty much the same approach, uh, remote, uh, remote work approach.
+And for, by the way, Like working, like for lyrics, especially for, uh, people from like different countries except like CS region, it could be a plus. Like, as a good example, uh, we have, uh, like several employees in China, uh, in Beijing especially, and in Shanghai as well. And, uh, uh, they really, first of all, they really like re uh, to work in a remote, uh, mode, uh, because they can plan their day according to, to needs of company and Accor according to their needs.
+Second one, uh, they are using holiday schedule of, uh, like Irish,
+Track 1: Oh,
+Irish. 
+Maxim Kirilenko: oh, sorry, not holiday schedule, but, uh, vacation, vacation schedule. So like 20 days or like 22 days, uh, of vacation, [00:23:00] uh, every year. Uh, and compared to China, uh, where they have like 10 days of vacation at maximum. So this is like a game changer.
+Track 1: And, and overall, like, uh, one of the, uh, one of the good parts about remote work setup is it allows you to attract talent at a much wider scope. Um, have you, have you seen this, you know, it seems like you, you've, you've definitely, uh, tapped into this, right?
+Maxim Kirilenko: Yeah.
